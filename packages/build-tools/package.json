@@ -12,7 +12,7 @@
     "stylus": "^0.54.5",
     "stylus-loader": "^3.0.1",
     "style-resources-loader": "^1.2.1",
-    "url-loader": "^1.1.1",
+    "url-loader": "^3.0.0",
     "uglifyjs-webpack-plugin": "^1.2.7",
     "vue-loader": "^15.7.1",
     "vue-template-compiler": "^2.6.10",
